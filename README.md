@@ -14,9 +14,9 @@ Each component — card generation, number extraction, win verification — is i
 
 The program is structured in three classes:
 
-- [`Main.java`](Main.java) — entry point, handles user input, card printing and saving
-- [`Bingo.java`](Bingo.java) — core game logic: card creation, number extraction, win detection
-- [`CartellaUtente.java`](CartellaUtente.java) — data model representing any grid in the game: player cards and the number bag
+- [`Main`](Main.java) — entry point, handles user input, card printing and saving
+- [`Bingo`](Bingo.java) — core game logic: card creation, number extraction, win detection
+- [`CartellaUtente`](CartellaUtente.java) — data model representing any grid in the game: player cards and the number bag
 
 ## Result
 
