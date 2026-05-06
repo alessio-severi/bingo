@@ -16,7 +16,7 @@ The program is structured in three classes:
 
 - `Main` — entry point, handles user input, card printing and saving
 - `Bingo` — core game logic: card creation, number extraction, win detection
-- `CartellaUtente` — data model for each player's card
+- `CartellaUtente` — data model representing any grid in the game: player cards and the number bag
 
 ## Requirements
 
