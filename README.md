@@ -21,11 +21,11 @@ The program is structured in three classes:
 ## Result
 
 <div align="center">
-  <img src="result/1.png" width="75%" alt="Maze result"/>
+  <img src="result/01.png" width="75%" alt="Maze result"/>
   <br><br>
-  <img src="result/3.png" width="75%" alt="Maze result"/>
+  <img src="result/03.png" width="75%" alt="Maze result"/>
   <br><br>
-  <img src="result/6.png" width="75%" alt="Maze result"/>
+  <img src="result/06.png" width="75%" alt="Maze result"/>
 </div>
 
 ## Requirements
