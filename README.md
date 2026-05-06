@@ -18,6 +18,16 @@ The program is structured in three classes:
 - `Bingo` — core game logic: card creation, number extraction, win detection
 - `CartellaUtente` — data model representing any grid in the game: player cards and the number bag
 
+## Result
+
+<div align="center">
+  <img src="result/01.png" width="75%" alt="Maze result"/>
+  <br><br>
+  <img src="result/03.png" width="75%" alt="Maze result"/>
+  <br><br>
+  <img src="result/06.png" width="75%" alt="Maze result"/>
+</div>
+
 ## Requirements
 
 - Java JDK 8+
